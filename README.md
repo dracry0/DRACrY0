@@ -7,8 +7,8 @@
 🔹Currently Learning Node.js, PostgresSQL.
 
 
-## [Hackathons](https://devpost.com/DRACrY0?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)
+## Checkout What Hacks I'm building 👉 [Hackathons](https://devpost.com/DRACrY0?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)
 
-## [Twitter](https://twitter.com/_DRACrY)
+## Connect with me 👉 [Twitter](https://twitter.com/_DRACrY)
 
 
