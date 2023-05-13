@@ -1,4 +1,6 @@
-# Hello there 👋, I'm a Student, doing my Bachelor in Computer Science and Engineering. 
+# Hello there 👋, 
+
+### I'm a Student, doing my Bachelor in Computer Science and Engineering. 
 
 🔹I love learning about Up and Coming tech as well as Decentralised Solutions. 
 
