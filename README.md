@@ -1,6 +1,6 @@
 # Hello there 👋, 
 
-### I'm a Student, doing my Bachelor in Computer Science and Engineering. 
+### I'm a recent CSE undergrad, am 23 and building on technologies i come acress around MERN stack. 
 
 🔹I love learning about Up and Coming tech as well as Decentralised Solutions. 
 
