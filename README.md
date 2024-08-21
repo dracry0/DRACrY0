@@ -4,7 +4,6 @@
 
 🔹I love learning about Up-and-coming tech as well as Decentralised Solutions. 
 
-🔹Currently Learning Node.js, PostgreSQL.
 <br/>
 <br/>
 
