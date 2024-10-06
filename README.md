@@ -1,6 +1,6 @@
 # Hello there 👋, 
 
-### I'm a recent CSE undergrad and building on technologies I come across around the MERN stack. 
+### I'm a recent CSE undergrad and building on technologies I come across around the MERN, FastAPI and Postgres. 
 
 🔹I love learning about Up-and-coming tech as well as Decentralised Solutions. 
 
