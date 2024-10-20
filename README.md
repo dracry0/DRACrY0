@@ -7,6 +7,9 @@
 <br/>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dracry0&show=prs_merged,prs_merged_percentage&hide=stars&include_all_commits=true_icons=true&theme=radical)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=dracry0&theme=radical)](https://git.io/streak-stats)
+[![GitHub Activity](https://activity-graph.herokuapp.com/graph?username=dracry0&theme=radical)](https://github.com/dracry0)
+<br/>
 [![trophy](https://github-profile-trophy.vercel.app/?username=dracry0&theme=radical&column=3&margin-w=15&margin-h=15&no-frame=true&title=Commits)](https://github.com/dracry0)
 
 <br/>
