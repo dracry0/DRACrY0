@@ -11,38 +11,64 @@
 ### 🔧 Languages and Technologies:
 
 #### Languages:
-![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+<p align="center">
+  <a href="https://golang.org/">
+    <img alt="Go" title="Go" height="48" width="48" src="https://cdn.simpleicons.org/go"></a>
+  <a href="https://www.javascript.com/">
+    <img alt="JavaScript" title="JavaScript" height="48" width="48" src="https://cdn.simpleicons.org/javascript"></a>
+  <a href="https://www.typescriptlang.org/">
+    <img alt="TypeScript" title="TypeScript" height="48" width="48" src="https://cdn.simpleicons.org/typescript"></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+    <img alt="HTML" title="HTML" height="48" width="48" src="https://cdn.simpleicons.org/html5"></a>
+  <a href="https://www.w3.org/Style/CSS/">
+    <img alt="CSS" title="CSS" height="48" width="48" src="https://cdn.simpleicons.org/css3"></a>
+</p>
 
 #### Technologies:
-![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
-![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-%23FF7EBD.svg?style=for-the-badge&logo=framer&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-%2300C7B7.svg?style=for-the-badge&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node-dot-js&logoColor=white)
-![WebGL](https://img.shields.io/badge/WebGL-%23EA5034.svg?style=for-the-badge&logo=webgl&logoColor=white)
-![GLSL](https://img.shields.io/badge/GLSL-%23FFD700.svg?style=for-the-badge&logo=opengl&logoColor=black)
-![PostgreSQL](https://img.shields.io/badge/Postgres-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-%234285F4.svg?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Stripe](https://img.shields.io/badge/Stripe-%23646CFF.svg?style=for-the-badge&logo=stripe&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
-![PaddlePaddle](https://img.shields.io/badge/PaddlePaddle-%230A9EDC.svg?style=for-the-badge&logo=paddlepaddle&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
-![Sphinx](https://img.shields.io/badge/Sphinx-%2300A7C6.svg?style=for-the-badge&logo=sphinx&logoColor=white)
+<p align="center">
+  <a href="https://reactjs.org/">
+    <img alt="React" title="React" height="48" width="48" src="https://cdn.simpleicons.org/react"></a>
+  <a href="https://vitejs.dev/">
+    <img alt="Vite" title="Vite" height="48" width="48" src="https://cdn.simpleicons.org/vite"></a>
+  <a href="https://www.framer.com/motion/">
+    <img alt="Framer Motion" title="Framer Motion" height="48" width="48" src="https://cdn.simpleicons.org/framer"></a>
+  <a href="https://fastapi.tiangolo.com/">
+    <img alt="FastAPI" title="FastAPI" height="48" width="48" src="https://cdn.simpleicons.org/fastapi"></a>
+  <a href="https://nodejs.org/">
+    <img alt="Node.js" title="Node.js" height="48" width="48" src="https://cdn.simpleicons.org/node.js"></a>
+  <a href="https://webglfundamentals.org/">
+    <img alt="WebGL" title="WebGL" height="48" width="48" src="https://cdn.simpleicons.org/webgl"></a>
+  <a href="https://www.opengl.org/">
+    <img alt="GLSL" title="GLSL" height="48" width="48" src="https://cdn.simpleicons.org/opengl"></a>
+  <a href="https://www.postgresql.org/">
+    <img alt="PostgreSQL" title="PostgreSQL" height="48" width="48" src="https://cdn.simpleicons.org/postgresql"></a>
+  <a href="https://cloud.google.com/">
+    <img alt="GCP" title="GCP" height="48" width="48" src="https://cdn.simpleicons.org/googlecloud"></a>
+  <a href="https://azure.microsoft.com/">
+    <img alt="Azure" title="Azure" height="48" width="48" src="https://cdn.simpleicons.org/microsoftazure"></a>
+  <a href="https://stripe.com/">
+    <img alt="Stripe" title="Stripe" height="48" width="48" src="https://cdn.simpleicons.org/stripe"></a>
+  <a href="https://git-scm.com/">
+    <img alt="Git" title="Git" height="48" width="48" src="https://cdn.simpleicons.org/git"></a>
+  <a href="https://github.com/">
+    <img alt="GitHub" title="GitHub" height="48" width="48" src="https://cdn.simpleicons.org/github"></a>
+  <a href="https://www.docker.com/">
+    <img alt="Docker" title="Docker" height="48" width="48" src="https://cdn.simpleicons.org/docker"></a>
+  <a href="https://www.paddlepaddle.org.cn/">
+    <img alt="PaddlePaddle" title="PaddlePaddle" height="48" width="48" src="https://cdn.simpleicons.org/paddlepaddle"></a>
+  <a href="https://pytorch.org/">
+    <img alt="PyTorch" title="PyTorch" height="48" width="48" src="https://cdn.simpleicons.org/pytorch"></a>
+  <a href="https://www.sphinx-doc.org/">
+    <img alt="Sphinx" title="Sphinx" height="48" width="48" src="https://cdn.simpleicons.org/sphinx"></a>
+</p>
 
 ---
 
 ### 📊 GitHub Stats:
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dracry0&hide=stars,contribs,prs_icons=true&show=prs_merged,prs_merged_percentage&theme=gotham&title_color=bc232f&border_color=bc232f)
+![Sushant's GitHub stats](https://github-readme-stats.vercel.app/api?username=dracry0&hide=stars,contribs,prs_icons=true&show=prs_merged,prs_merged_percentage&theme=radical&title_color=bc232f&text_color=05998c&border_color=bc232f)
 <br/>
-[![GitHub Streak](https://streak-stats.demolab.com/?user=dracry0&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=dracry0&theme=radical&date_format=M%20j%5B%2C%20Y%5D&border=CB2533&fire=07D2C0&sideNums=07DDCA&sideLabels=008DFF&ring=AC0000&dates=07DDCA&stroke=CB2533&currStreakLabel=008DFF&currStreakNum=008DFF)](https://git.io/streak-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=dracry0&theme=radical&column=3&margin-w=15&margin-h=15&no-frame=true&title=Commits)](https://github.com/dracry0)
 
