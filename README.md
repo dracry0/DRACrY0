@@ -40,7 +40,7 @@
 
 ### 📊 GitHub Stats:
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dracry0&show=prs_merged,prs_merged_percentage&hide=contribs,prs,stars_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dracry0&show=prs_merged,prs_merged_percentage&hide=stars,contribs,prs_icons=true&theme=shadow_red)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=dracry0&theme=radical)](https://git.io/streak-stats)
 
