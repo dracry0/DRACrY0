@@ -1,21 +1,23 @@
-# Hello there 👋, 
+# Hello there 👋, I'm [Your Name]
 
-### I'm a recent CSE undergrad and building on technologies I come across around the MERN, FastAPI and Postgres. 
+### 🚀 I'm a recent CSE undergrad and building on technologies I come across around the MERN, FastAPI, and Postgres stack.
 
-🔹I love learning about Up-and-coming tech as well as Decentralised Solutions. 
+🔹 I’m passionate about exploring new tech, decentralized solutions, and learning how to apply them in real-world projects.  
+🔹 Currently, I'm a Web Developer Intern @crossgl.  
+🔹 My current project: [crossgl.net](https://crossgl.net/)  
 
-<br/>
+---
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dracry0&show=prs_merged,prs_merged_percentage&hide=stars&include_all_commits=true_icons=true&theme=radical)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=dracry0&theme=radical)](https://git.io/streak-stats)
-[![GitHub Activity](https://activity-graph.herokuapp.com/graph?username=dracry0&theme=radical)](https://github.com/dracry0)
-<br/>
-[![trophy](https://github-profile-trophy.vercel.app/?username=dracry0&theme=radical&column=3&margin-w=15&margin-h=15&no-frame=true&title=Commits)](https://github.com/dracry0)
+## 🛠 Tech Stack & Tools
 
-<br/>
-
-## Checkout What Hacks I'm building 👉 [Hackathons](https://devpost.com/DRACrY0?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)
-
-## Connect with me 👉 [Twitter](https://twitter.com/_DRACrY)
-
-
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=flat&logo=stripe&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](
