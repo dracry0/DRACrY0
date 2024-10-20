@@ -43,7 +43,7 @@
   <a href="https://cloud.google.com/">
     <img alt="GCP" title="GCP" height="48" width="48" src="https://cdn.simpleicons.org/googlecloud"></a>
   <a href="https://azure.microsoft.com/">
-    <img alt="Azure" title="Azure" height="48" width="48" src="https://cdn.simpleicons.org/microsoftazure"></a>
+    <img alt="Azure" title="Azure" height="48" width="48" src="https://bornsql.ca/wp-content/uploads/2018/09/azurelogo.jpg"></a>
   <a href="https://stripe.com/">
     <img alt="Stripe" title="Stripe" height="48" width="48" src="https://cdn.simpleicons.org/stripe"></a>
   <a href="https://git-scm.com/">
@@ -62,9 +62,7 @@
 
 ---
 
-
 ![Sushant's GitHub stats](https://github-readme-stats.vercel.app/api?username=dracry0&hide=stars,contribs,prs_icons=true&show=prs_merged,prs_merged_percentage&theme=radical&title_color=bc232f&text_color=05998c&border_color=bc232f)
-<br/>
 [![GitHub Streak](https://streak-stats.demolab.com?user=dracry0&theme=radical&date_format=M%20j%5B%2C%20Y%5D&border=CB2533&fire=07D2C0&sideNums=07DDCA&sideLabels=008DFF&ring=AC0000&dates=07DDCA&stroke=CB2533&currStreakLabel=008DFF&currStreakNum=008DFF)](https://git.io/streak-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=dracry0&theme=radical&column=3&margin-w=15&margin-h=15&no-frame=true&title=Commits)](https://github.com/dracry0)
