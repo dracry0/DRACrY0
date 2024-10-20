@@ -6,7 +6,7 @@
 
 <br/>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dracry0&show=prs_merged,prs_merged_percentage&hide=contribs,prs,stars_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dracry0&show=prs_merged,prs_merged_percentage&hide=stars&include_all_commits=true_icons=true&theme=radical)
 
 <br/>
 
