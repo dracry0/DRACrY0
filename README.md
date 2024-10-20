@@ -40,7 +40,8 @@
 
 ### 📊 GitHub Stats:
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dracry0&show=prs_merged,prs_merged_percentage&text_color=FFFFFF&hide=stars,contribs,prs_icons=true&theme=shadow_red)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dracry0&show=prs_merged,prs_merged_percentage&text_color=025043&hide=stars,contribs,prs_icons=true&theme=shadow_red)
+<br/>
 [![GitHub Streak](https://streak-stats.demolab.com/?user=dracry0&theme=radical)](https://git.io/streak-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=dracry0&theme=radical&column=3&margin-w=15&margin-h=15&no-frame=true&title=Commits)](https://github.com/dracry0)
