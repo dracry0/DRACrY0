@@ -8,10 +8,8 @@
 
 ---
 
-### 🔧 Languages and Technologies:
+### 🔧 Languages:
 
-#### Languages:
-<p align="center">
   <a href="https://golang.org/">
     <img alt="Go" title="Go" height="48" width="48" src="https://cdn.simpleicons.org/go"></a>
   <a href="https://www.javascript.com/">
@@ -22,9 +20,9 @@
     <img alt="HTML" title="HTML" height="48" width="48" src="https://cdn.simpleicons.org/html5"></a>
   <a href="https://www.w3.org/Style/CSS/">
     <img alt="CSS" title="CSS" height="48" width="48" src="https://cdn.simpleicons.org/css3"></a>
-</p>
+    
 
-#### Technologies:
+### Technologies:
 <p align="center">
   <a href="https://reactjs.org/">
     <img alt="React" title="React" height="48" width="48" src="https://cdn.simpleicons.org/react"></a>
@@ -64,7 +62,6 @@
 
 ---
 
-### 📊 GitHub Stats:
 
 ![Sushant's GitHub stats](https://github-readme-stats.vercel.app/api?username=dracry0&hide=stars,contribs,prs_icons=true&show=prs_merged,prs_merged_percentage&theme=radical&title_color=bc232f&text_color=05998c&border_color=bc232f)
 <br/>
