@@ -63,7 +63,7 @@
 ---
 
 ![Sushant's GitHub stats](https://github-readme-stats.vercel.app/api?username=dracry0&hide=stars,contribs,prs_icons=true&show=prs_merged,prs_merged_percentage&theme=radical&title_color=bc232f&text_color=05998c&border_color=bc232f)
-[![GitHub Streak](https://streak-stats.demolab.com?user=dracry0&theme=radical&date_format=M%20j%5B%2C%20Y%5D&border=CB2533&fire=07D2C0&sideNums=07DDCA&sideLabels=008DFF&ring=AC0000&dates=07DDCA&stroke=CB2533&currStreakLabel=008DFF&currStreakNum=008DFF)](https://git.io/streak-stats)
+# [![GitHub Streak](https://streak-stats.demolab.com?user=dracry0&theme=radical&date_format=M%20j%5B%2C%20Y%5D&border=CB2533&fire=07D2C0&sideNums=07DDCA&sideLabels=008DFF&ring=AC0000&dates=07DDCA&stroke=CB2533&currStreakLabel=008DFF&currStreakNum=008DFF)](https://git.io/streak-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=dracry0&theme=radical&column=3&margin-w=15&margin-h=15&no-frame=true&title=Commits)](https://github.com/dracry0)
 
