@@ -4,7 +4,7 @@
 
 🔹I love learning about up-and-coming tech as well as decentralized solutions.  
 🔹Currently working as a **Web Developer Intern @crossgl**  
-🔹Project I'm working on right now: [crossgl.net](https://crossgl.net/)
+🔹Software Engineer [crossgl.net](https://crossgl.net/)
 
 ---
 
