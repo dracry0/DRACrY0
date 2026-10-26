@@ -1,9 +1,3 @@
-# Hello there 👋,  I'm Sushant Mishra
-
-### I'm a recent CSE undergrad, Web developer, Open Source contributor, building on technologies around MERN, FastAPI, and PostgresSQL.
-
-🔹I love learning about up-and-coming tech as well as decentralized solutions.  
-🔹Currently working as a **Web Developer Intern @crossgl**  
 🔹 Co-founder - Frontend and Product Engineering @[crossgl.net](https://crossgl.net/)
 
 ---
